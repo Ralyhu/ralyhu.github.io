@@ -14,3 +14,7 @@ At University of Calabria, I was <i>teaching assistant</i> for the following cou
 - <b><i> Database Systems</i></b>, M.Sc. in Management Engineering [’18-’19, ’19-’20]
 
 
+At University of Calabria, I was <i>instructor</i> for the following courses:
+- <b><i> Correlation Clustering: from classic to Reinforcement Learning-based theoretical frameworks, with applications to fairness and diversity related problems</i></b>, PhD program in ICT [’22-’23]
+
+
