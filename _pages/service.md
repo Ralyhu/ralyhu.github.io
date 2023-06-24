@@ -12,10 +12,11 @@ nav_order: 2
 - <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Social Network Analysis and Graph Algorithms</i> track) [2022, 2023]
 - <i> ACM International Conference on Web Search and Data Mining</i> (<b>WSDM</b>) [2023]
 - <i> AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>) [2023]
+- <i> European Conference on Artificial Intelligence</i> (<b>ECAI</b>) [2023]
 - <i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (<b>ECML-PKDD</b>) (<i>Research</i> track) [2022, 2023]
 - <i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (<b>ECML-PKDD</b>) (<i>Applied Data Science</i> track) [2021, 2022]
 - <i> International Symposium on Methodologies for Intelligent Systems</i> (<b>ISMIS</b>) [2022]
-- <i> Workshop on MIning DAta for financial applicationS</i> (<b>MIDAS</b>), in conjuction with the <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (<b>ECML-PKDD</b>) [2021, 2022]
+- <i> Workshop on MIning DAta for financial applicationS</i> (<b>MIDAS</b>), in conjuction with the <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (<b>ECML-PKDD</b>) [2021, 2022, 2023]
 
 <b> Journal Reviewing </b>
 - <i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>)
