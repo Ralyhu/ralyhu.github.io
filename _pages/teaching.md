@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 At University of Calabria, I was <i>teaching assistant</i> for the following courses:
-- <b><i> Algorithms and Data Structures (Course A)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22, ’22-’23]
-- <b><i> Algorithms and Data Structures (Course B)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22] 
+- <b><i> Algorithms and Data Structures (Group A)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22, ’22-’23]
+- <b><i> Algorithms and Data Structures (Group B)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22] 
 - <b><i> Algorithms and Data Structures</i></b>, B.Sc. in Computer Science & Engineering [’17-’18, ’18-’19, ’20-’21]
 - <b><i> Database Systems</i></b>, M.Sc. in Management Engineering [’18-’19, ’19-’20]
 
