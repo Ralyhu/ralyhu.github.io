@@ -9,7 +9,7 @@ nav_order: 2
 
 <b> Program Committees </b>
 - <i> ACM SIGKDD International Conference on Knowledge Discovery & Data Mining </i> (<b>KDD</b>) (<i>Research</i> track) [2023]
-- <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Social Network Analysis and Graph Algorithms</i> track) [2022, 2023 <b>Best Reviewer Award</b>]
+- <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Social Network Analysis and Graph Algorithms</i> track) [2022, 2023 <b><i>Best Reviewer Award</i></b>]
 - <i> ACM International Conference on Web Search and Data Mining</i> (<b>WSDM</b>) [2023]
 - <i> AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>) [2023]
 - <i> European Conference on Artificial Intelligence</i> (<b>ECAI</b>) [2023]
