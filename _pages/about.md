@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor (RTDa) at the DIMES Department, University of Calabria, in Rende (Italy). Previously, I was a postdoctoral researcher at the DIMES Department. I received my PhD (2021) in Information and Communication Technologies from University of Calabria. There I completed my M.Sc. (2017) and B.Sc. (2014) in Computer Science and Engineering.
 
-My research interests lie primarily in the broad areas of <b>artificial intelligence</b> and <b>(algorithmic) data science</b>, with the main goal of tackling (novel) problems and designing effective yet efficient algorithms that are useful to gain knowledge from data. Due to the fact that much of today’s data can be represented as graphs, my emphasis has primarily been on formalizing data-driven challenges as graph problems. More specifically, my recent research interests include neuro-symbolic AI, graph mining, correlation clustering, deep learning on graphs and (combinatorial) multi-armed bandit problems.
+My research interests lie primarily in the broad areas of <b>artificial intelligence</b> and <b>(algorithmic) data science</b>, with the main goal of tackling (novel) problems and designing effective yet efficient algorithms that are useful to gain knowledge from data. Due to the fact that much of today’s data can be represented as graphs, my emphasis has primarily been on formalizing data-driven challenges as graph problems. More specifically, my recent research interests include graph mining and learning, correlation clustering and explainable AI.
 
 <!---
 
