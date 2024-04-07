@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <b> Organization </b>
-- <b> PhD Forum and Posters Track Co-Chair </b>, <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining </i> (<b> ASONAM </b>) [2024] 
+- <b> PhD Forum and Posters Track Co-Chair</b>, <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining</i> (<b>ASONAM</b>) [2024] 
 
 <b> Program Committees </b>
 - <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Graph Algorithms and Modeling for the Web</i> track) [2024]
