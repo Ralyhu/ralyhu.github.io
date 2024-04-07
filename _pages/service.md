@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: Scientific Community Service
+title: Service
 description: 
 nav: true
 nav_order: 2
