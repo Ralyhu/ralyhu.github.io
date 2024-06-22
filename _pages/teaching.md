@@ -10,6 +10,7 @@ nav_order: 3
 At University of Calabria, I was <i>instructor</i> for the following courses:
 - <b><i> Data Mining</i></b>, B.Sc. Computer Science & Engineering [’23-’24]
 - <b><i> Database Systems and Data Analytics</i></b>, B.Sc. in Statistics for Data Science [’23-’24]
+- <b><i> Informatics and Elements of Medical Informatics</i></b>, Single-cycle Master’s Degree in Medicine and Surgery DT (Digital Technologies [’23-’24]
 - <b><i> Correlation Clustering: from classic to Reinforcement Learning-based theoretical frameworks, with applications to fairness and diversity related problems</i></b>, PhD program in ICT [’22-’23]
 
 At University of Calabria, I was <i>teaching assistant</i> for the following courses:
