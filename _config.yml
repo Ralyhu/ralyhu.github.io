@@ -86,7 +86,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/218/6425.html # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
@@ -99,7 +99,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  If you have any questions, please feel free to drop me an email (d.mandaglio [at] dimes.unical.it) or contact me on telegram.
+  If you have any questions, please feel free to drop me an email (d.mandaglio [at] dimes [dot] unical [dot] it) or contact me on telegram.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

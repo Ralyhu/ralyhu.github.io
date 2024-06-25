@@ -11,7 +11,7 @@ nav_order: 2
 - <b> PhD Forum and Posters Track Co-Chair</b>, <i>International Conference on Advances in Social Networks Analysis and Mining</i> (<b>ASONAM</b>) [2024] 
 
 <b> Program Committees </b>
-- <i> Annual Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>) [2024]
+- <i> Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>) [2024]
 - <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Graph Algorithms and Modeling for the Web</i> track) [2024]
 - <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Social Network Analysis and Graph Algorithms</i> track) [2022, 2023 <b><i>Best Reviewer Award</i></b>]
 - <i> AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>) [2023, 2024, 2025]
