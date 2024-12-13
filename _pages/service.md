@@ -11,8 +11,9 @@ nav_order: 2
 - <b> PhD Forum and Posters Track Co-Chair</b>, <i>International Conference on Advances in Social Networks Analysis and Mining</i> (<b>ASONAM</b>) [2024] 
 
 <b> Program Committees </b>
+- <i> International Conference on Machine Learning</i> (<b>ICML</b>) [2025]
 - <i> Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>) [2024]
-- <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Graph Algorithms and Modeling for the Web</i> track) [2024]
+- <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Graph Algorithms and Modeling for the Web</i> track) [2024, 2025]
 - <i> ACM The Web Conference</i> (<b>WWW</b>) (<i>Social Network Analysis and Graph Algorithms</i> track) [2022, 2023 <b><i>Best Reviewer Award</i></b>]
 - <i> AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>) [2023, 2024, 2025]
 - <i> International Joint Conference on Artificial Intelligence</i> (<b>IJCAI</b>) [2024]
@@ -28,5 +29,6 @@ nav_order: 2
 <b> Journal Reviewing </b>
 - <i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>)
 - <i>Machine Learning</i> (<b>MACH</b>)
+- <i>Discrete Mathematics</i> (<b>DISCM</b>)
 - <i>Social Network Analysis and Mining</i> (<b>SNAM</b>)
 - <i>Journal of Intelligent Information Systems</i> (<b>JIIS</b>)
