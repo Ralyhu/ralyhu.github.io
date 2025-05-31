@@ -98,8 +98,8 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  If you have any questions, please feel free to drop me an email (d [dot] mandaglio [at] dimes [dot] unical [dot] it) or contact me on telegram.
+# contact_note: >
+#  If you have any questions, please feel free to drop me an email (d [dot] mandaglio [at] dimes [dot] unical [dot] it) or contact me on telegram.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
