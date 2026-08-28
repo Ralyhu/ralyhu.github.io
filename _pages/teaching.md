@@ -21,9 +21,9 @@ At <b>École Polytechnique Féminine (EPF) Engineering School</b>, Montpellier (
 At <b>University of Calabria</b>, Rende (Italy), I was/will be <i>teaching assistant</i> for the following courses:
 - <b><i> Machine Learning for Medicine</i></b>, B.Sc. Biomedical Engineering [’26-’27]
 - <b><i> Social Network and Media Analysis</i></b>, M.Sc. Computer Science & Engineering [’26-’27]
-- <b><i> Big Data Analytics</i></b>, M.Sc. in Data Science for Business Analytics [’24-’25, ’25-’26, ’26-’27]
+- <b><i> Database Systems and Data Analytics</i></b>, B.Sc. in Statistics for Data Science [’23-’24, ’24-’25, ’25-’26, ’26-’27]
+- <b><i> Big Data Analytics</i></b>, M.Sc. in Data Science for Business Analytics [’24-’25, ’25-’26]
 - <b><i> Data Mining</i></b>, B.Sc. Computer Science & Engineering [’25-’26]
-- <b><i> Database Systems and Data Analytics</i></b>, B.Sc. in Statistics for Data Science [’23-’24, ’24-’25, ’25-’26]
 - <b><i> Algorithms and Data Structures (Group A)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22, ’22-’23]
 - <b><i> Algorithms and Data Structures (Group B)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22] 
 - <b><i> Algorithms and Data Structures</i></b>, B.Sc. in Computer Science & Engineering [’17-’18, ’18-’19, ’20-’21]
