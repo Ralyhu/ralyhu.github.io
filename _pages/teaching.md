@@ -19,7 +19,7 @@ At <b>École Polytechnique Féminine (EPF) Engineering School</b>, Montpellier (
 - <b><i> Data Mining and Machine Learning on Graphs</i></b>, M.Sc. in Data Science [’25-’26]
 
 At <b>University of Calabria</b>, Rende (Italy), I was/will be <i>teaching assistant</i> for the following courses:
-- <b><i> Machine Learning for Medicine</i></b>, M.Sc. Biomedical Engineering [’26-’27]
+- <b><i> Machine Learning for Medicine</i></b>, B.Sc. Biomedical Engineering [’26-’27]
 - <b><i> Social Network and Media Analysis</i></b>, M.Sc. Computer Science & Engineering [’26-’27]
 - <b><i> Data Mining</i></b>, B.Sc. Computer Science & Engineering [’25-’26]
 - <b><i> Big Data Analytics</i></b>, M.Sc. in Data Science for Business Analytics [’24-’25, ’25-’26]
