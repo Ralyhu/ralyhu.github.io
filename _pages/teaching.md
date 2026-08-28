@@ -10,7 +10,7 @@ nav_order: 3
 At <b>University of Calabria</b>, Rende (Italy), I was/will be <i>instructor</i> for the following courses:
 - <b><i> Social Network and Media Analysis</i></b>, M.Sc. Computer Science & Engineering [’26-’27]
 - <b><i> Data Mining</i></b>, B.Sc. Computer Science & Engineering [’23-’24, ’24-’25, ’25-’26]
-- <b><i> Database Systems and Data Analytics</i></b>, B.Sc. in Statistics for Data Science [’23-’24, ’24-’25, ’25-’26]
+- <b><i> Database Systems and Data Analytics</i></b>, B.Sc. in Statistics for Data Science [’23-’24, ’24-’25, ’25-’26, ’26-’27]
 - <b><i> Informatics and Elements of Medical Informatics</i></b>, single-cycle M.Sc. in Medicine and Surgery DT (Digital Technologies) [’23-’24]
 - <b><i> Correlation Clustering: from classic to Reinforcement Learning-based theoretical frameworks, with applications to fairness and diversity related problems</i></b>, PhD program in ICT [’22-’23]
 
@@ -21,8 +21,8 @@ At <b>École Polytechnique Féminine (EPF) Engineering School</b>, Montpellier (
 At <b>University of Calabria</b>, Rende (Italy), I was/will be <i>teaching assistant</i> for the following courses:
 - <b><i> Machine Learning for Medicine</i></b>, B.Sc. Biomedical Engineering [’26-’27]
 - <b><i> Social Network and Media Analysis</i></b>, M.Sc. Computer Science & Engineering [’26-’27]
+- <b><i> Big Data Analytics</i></b>, M.Sc. in Data Science for Business Analytics [’24-’25, ’25-’26, ’26-’27]
 - <b><i> Data Mining</i></b>, B.Sc. Computer Science & Engineering [’25-’26]
-- <b><i> Big Data Analytics</i></b>, M.Sc. in Data Science for Business Analytics [’24-’25, ’25-’26]
 - <b><i> Database Systems and Data Analytics</i></b>, B.Sc. in Statistics for Data Science [’23-’24, ’24-’25, ’25-’26]
 - <b><i> Algorithms and Data Structures (Group A)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22, ’22-’23]
 - <b><i> Algorithms and Data Structures (Group B)</i></b>, B.Sc. in Computer Science & Engineering [’21-’22] 
