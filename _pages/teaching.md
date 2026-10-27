@@ -14,7 +14,7 @@ At <b>University of Calabria</b>, Rende (Italy), I was/will be <i>instructor</i>
 - <b> Informatics and Elements of Medical Informatics</b>, single-cycle M.Sc. in Medicine and Surgery DT (Digital Technologies) [’23-’24]
 - <b> Correlation Clustering: from classic to reinforcement learning-based theoretical frameworks, with applications to fairness and diversity related problems</b>, PhD program in ICT [’22-’23]
 
-At <b>École Polytechnique Féminine (EPF) Engineering School</b>, Montpellier (France), I was/will be <i>instructor</i> (invited lecturer) for the following courses:
+At <b>École Polytechnique Féminine (EPF) Engineering School</b>, Montpellier (France), I was be <i>instructor</i> (invited lecturer) for the following courses:
 - <b> Natural Language Processing</b>, M.Sc. in Data Science [’26-’27]
 - <b> Data Mining and Machine Learning on Graphs</b>, M.Sc. in Data Science [’25-’26]
 
